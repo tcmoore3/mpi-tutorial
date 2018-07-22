@@ -1,4 +1,9 @@
+# the compiled binary files
+# i don't know of an easy way (besides compiling into a bin/ directory)
+# to have git ignore these executables after compilation
 hello-world/mpi_hello_world
 send_recv/ping_pong
 send_recv/ring
 send_recv/send_recv
+dynamic-send-recv/check_status
+dynamic-send-recv/probe
