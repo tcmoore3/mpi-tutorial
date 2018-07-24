@@ -7,3 +7,4 @@ send_recv/ring
 send_recv/send_recv
 dynamic-send-recv/check_status
 dynamic-send-recv/probe
+random-walk/random-walk
